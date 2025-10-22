@@ -68,7 +68,7 @@ How to Run
 1.  Clone this repository:
 
     ```
-    git clone [https://github.com/Aidin-Sahneh/linear-control-system-project.git](https://github.com/Aidin-Sahneh/linear-control-system-project.git)
+    git clone https://github.com/Aidin-Sahneh/linear-control-system-project.git
 
     ```
 
