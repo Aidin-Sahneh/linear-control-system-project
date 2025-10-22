@@ -1,0 +1,22 @@
+# MATLAB/Simulink
+*.asv
+*.autosave
+*.bak
+*.mex*
+*.log
+*.orig
+*.slx.part
+*.mdl.part
+
+# MATLAB autosave and backup files
+*~
+*.bak
+
+# MATLAB temporary files
+*.tmp
+
+# MATLAB generated figures
+*.fig
+
+# MATLAB profiling
+prof*
